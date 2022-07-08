@@ -1,0 +1,42 @@
+---
+layout: archive
+classes: wide
+---
+
+{{ content }}
+
+<h2></h2>
+<!-- <p style="font-size:0.9em;"> -->
+<p style="text-align:center;">
+<img src="/assets/images/MLi_Profile.PNG" alt="profile_photo" style="width:300px;height:300px;">
+</p>
+<p>
+  I am a <a href="https://dornsife.usc.edu/cf/soci/soci_student_display.cfm?Person_ID=1077012">Ph.D. candidate in Sociology</a> at <a href="https://www.usc.edu/">University of Southern California (USC)</a>. 
+  My Ph.D. advisor is <a href="https://dornsife.usc.edu/cf/soci/soci_faculty_display.cfm?Person_ID=1042774">Jennifer Hook</a>. 
+  I received my MA from <a href="https://steinhardt.nyu.edu/departments/media-culture-and-communication">Media, Culture, and, Communication at New York University</a> and BA from Chinese Literature and Culture at <a href="http://www.blcu.edu.cn/"> Beijing Language and Culture University</a>.
+</p>
+<p>
+  Meiying Li is a Ph.D. candidate in the Department of Sociology at the University of Southern California. Her research and teaching interests include gender, stratification, economic sociology, family policies, and quantitative methods. Her dissertation examines the linkage between occupational sex segregation and gender wage inequality in the economically polarized, post-2000 labor market. In other ongoing work, she studies how marketization has affected gender wage inequality in China. Her publications include a review of how work-family reconciliation policies have affected gender inequality for women by social class, and how neighborhood inequality has perpetuated unequal access to COVID vaccination. 
+  <!-- # <a href="/publication/">here</a>. -->
+<!-- </h3> -->
+</p>
+
+<!-- <h3>News</h3> -->
+
+
+<h3 class="archive__subtitle">{{ site.data.ui-text[site.locale].recent_posts | default: "Recent Posts" }}</h3>
+
+{% if paginator %}
+  {% assign posts = paginator.posts %}
+{% else %}
+  {% assign posts = site.posts %}
+{% endif %}
+
+{% assign entries_layout = page.entries_layout | default: 'list' %}
+<div class="entries-{{ entries_layout }}", style="font-size:1em;">
+  {% for post in posts %}
+    {% include archive-single.html type=entries_layout %}
+  {% endfor %}
+</div>
+
+{% include paginator.html %}

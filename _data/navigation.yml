@@ -1,0 +1,18 @@
+# main links
+main:
+  # - title: "Quick-Start Guide"
+  #   url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
+  - title: "Home"
+    url: /
+  # - title: "About"
+  #   url: /
+  - title: "Publications"
+    url: /publication/
+  # - title: "Tools"
+  #   url: /tool/
+  # - title: "Contact"
+  #   url: /contact/
+  - title: "CV"
+    url: /assets/images/CV_Li_2022.pdf
+  # - title: "Sitemap"
+  #   url: /sitemap/
