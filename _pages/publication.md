@@ -6,11 +6,12 @@ title: null
 
 # Publications
 
+## Journal Articles
+**Li, Meiying**. (2023) [**“Does Feminization Always Lead to A Decline in Earnings? Evidence from China’s Marketization (1988—2013).”**](https://doi.org/10.1080/00380253.2023.2228366) *Sociological Quarterly*, 1-26.
+DiRago, Nicholas V., **Meiying Li**, Thalia Tom, Will Schupmann, Yvonne Carrillo, Carey M. Colleen, and Michael S. Gaddis. (2022) [**”COVID-19 Vaccine Rollouts and the Reproduction of Urban Spatial Inequality: Disparities Within Large US Cities in March and April 2021 by Racial/Ethnic and Socioeconomic Composition.”**](https://link.springer.com/article/10.1007/s11524-021-00589-0) *Journal of Urban Health* 99(2): 191-207
+
 ## Book Chapters
 Hook, Jennifer and **Meiying Li** (2020). [**"Gendered Tradeoffs"**](https://library.oapen.org/handle/20.500.12657/46123). Chapter 11 (pp. 249-266) in *The Palgrave Handbook of Family Policy.* Nieuwenhuis, R. and Van Lancker, W. (Eds.). Basingstoke, UK: Palgrave.
-
-## Journal Articles
-DiRago, Nicholas V., **Meiying Li**, Thalia Tom, Will Schupmann, Yvonne Carrillo, Carey M. Colleen, and Michael S. Gaddis. (2022) [**”COVID-19 Vaccine Rollouts and the Reproduction of Urban Spatial Inequality: Disparities Within Large US Cities in March and April 2021 by Racial/Ethnic and Socioeconomic Composition.”**](https://link.springer.com/article/10.1007/s11524-021-00589-0) *Journal of Urban Health* 99(2): 191-207
 
 ## Work in progress
 Li, Meiying. (Work in progress) “Devaluation for whom? Feminization and wages in an economically polarized labor market, 2003-2019” 
