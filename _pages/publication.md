@@ -8,6 +8,7 @@ title: null
 
 ## Journal Articles
 **Li, Meiying**. (2023) [**“Does Feminization Always Lead to A Decline in Earnings? Evidence from China’s Marketization (1988—2013).”**](https://doi.org/10.1080/00380253.2023.2228366) *Sociological Quarterly*, 1-26.
+
 DiRago, Nicholas V., **Meiying Li**, Thalia Tom, Will Schupmann, Yvonne Carrillo, Carey M. Colleen, and Michael S. Gaddis. (2022) [**”COVID-19 Vaccine Rollouts and the Reproduction of Urban Spatial Inequality: Disparities Within Large US Cities in March and April 2021 by Racial/Ethnic and Socioeconomic Composition.”**](https://link.springer.com/article/10.1007/s11524-021-00589-0) *Journal of Urban Health* 99(2): 191-207
 
 ## Book Chapters
