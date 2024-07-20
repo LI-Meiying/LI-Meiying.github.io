@@ -8,7 +8,7 @@ title: null
 
 ## Journal Articles
 **Li, Meiying**. (In Press) “Devaluation for whom? Feminization and wages in an
-economically polarized labor market, 2003-2019.” *Social Forces*
+economically polarized labor market, 2003-2019.” *Social Forces* [Replication Package](https://doi.org/10.7910/DVN/JVH535)
 
 - Winner of the Robert D. Mare Graduate Student Paper Award (2024), American
 Sociological Association (ASA) Section on Inequality, Poverty, and Mobility
