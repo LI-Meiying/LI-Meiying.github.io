@@ -103,9 +103,9 @@ analytics:
 author:
   name             : "Meiying Li"
   avatar           : "/assets/images/MLi_Profile.png"
-  bio              : "Ph.D. Candidate @USC with research interest in Work, Family, Stratification, Gender, and Quantitative Methods"
-  location         : "Los Angeles, CA"
-  #email            : "limeiyin@usc.edu"
+  bio              : "Postdoc @Cornell University with research & teaching interest in Work, Family Policy, Stratification, Gender, and Quantitative Methods"
+  location         : "Ithaca, NY"
+  #email            : "ml2842@cornell.edu"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
