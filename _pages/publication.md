@@ -56,4 +56,8 @@ Tradeoffs"**](https://library.oapen.org/handle/20.500.12657/46123). Chapter 11 (
 
 Hook, Jennifer and **Meiying Li**. “National Work-Family Policies and the Gender Earnings Gap in European Countries, 1999–2019.”
 
+Musick, Kelly; **Meiying Li**; and Fomby, Paula  "Gendered Work Family Pathways and Midlife Health among the Moderately Educated."
+
+Musick, Kelly; Gonalons-Pons, Pilar; Kim Chae; and **Meiying Li**  "Safety Net Policies & Income Inadequacy at the Transition to Parenthood."
+
 
