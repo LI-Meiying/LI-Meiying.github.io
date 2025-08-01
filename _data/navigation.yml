@@ -14,5 +14,7 @@ main:
   #   url: /contact/
   - title: "CV"
     url: /assets/images/CV_Li_2024.pdf
+  - title: "Project Demo"
+    url: /assets/images/Survey_ML.pdf
   # - title: "Sitemap"
   #   url: /sitemap/
